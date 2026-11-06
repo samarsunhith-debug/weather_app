@@ -1,0 +1,4 @@
+# Never publish secrets or local files
+.env
+__pycache__/
+*.pyc
